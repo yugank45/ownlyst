@@ -1,0 +1,24 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "feat/calendar-view",
+    "fix/command-palette-shortcut",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "feat/calendar-view": "develop",
+    "fix/command-palette-shortcut": "develop",
+    "main": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "feat/calendar-view",
+    "fix/command-palette-shortcut",
+    "main",
+    "origin"
+  ]
+}
